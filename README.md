@@ -71,4 +71,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENCE](/LICENCE) para m
 
 - - - 
 
-Feito por [Diego Ferreira](http://linkedin.com/in/diegogmferreira) (#6425)
+Feito por [Diego Ferreira](http://linkedin.com/in/diegogmferreira)
